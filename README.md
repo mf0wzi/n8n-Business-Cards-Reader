@@ -94,6 +94,6 @@ Created by **Mohammed Fowzi** (GitHub: [@mf0wzi](https://github.com/mf0wzi)).
 ## 📄 License
 
     This project is free to use.
-    (If you want an MIT License file generated with your name, just ask!)
+    
    git clone https://github.com/mf0wzi/n8n-Business-Cards-Reader.git
    cd n8n-Business-Cards-Reader
